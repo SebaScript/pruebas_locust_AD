@@ -1,0 +1,5 @@
+- Para un usuario, el servidor funciona perfectamente, no da errores y demora muy poco en responder.
+
+- A medida que aumentan los usuarios, empieza a aumentar el tiempo de respuesta exponencialmente, pero sigue sin presentar errores.
+
+Es normal que cuando hay demasiados usuarios la pagina empiece a tener más demora para responder, pero no debería presentar errores (tal como ocurre en este caso), entonces para demorar lo menos posible en responder, se recomienda optimizar la información entregada en la página.
